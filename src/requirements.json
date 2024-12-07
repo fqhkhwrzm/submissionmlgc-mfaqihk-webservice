@@ -1,0 +1,6 @@
+{
+    "backend-service-url": "https://mfaqihk-firestore-924985856083.asia-southeast2.run.app/",
+    "frontend-service-url": "https://submissionmlgc-mfaqihk.et.r.appspot.com/",
+    "project-id": "submissionmlgc-mfaqihk",
+    "bucket-name": "model-storage-submissionmlgc-production"
+}
