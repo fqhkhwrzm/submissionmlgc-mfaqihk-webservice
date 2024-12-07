@@ -8,7 +8,7 @@ const db = new Firestore({
   
 async function storeData(id, data) {
     try {
-        const predictCollection = db.collection('prediction');
+        const predictCollection = db.collection('predictions');
         return predictCollection.doc(id).set(data);
     } catch (e) {
         console.error(e);
